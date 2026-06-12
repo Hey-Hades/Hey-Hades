@@ -30,9 +30,9 @@
 
 ## 👨‍💻 About Me
 
-I am a rigorous **Software Engineer** specializing in full-stack development and artificial intelligence integration. Currently pursuing my B.Tech in Computer Engineering at the International Institute of Information Technology, Bhubaneswar (2023–2027) with a CGPA of 7.97/10[cite: 1]. Previously, I completed my foundational education at Dr. Virendra Swarup Memorial Public School, securing 96% in Class 10 and 94% in Class 12[cite: 1].
+I am a rigorous **Software Engineer** specializing in full-stack development and artificial intelligence integration. Currently pursuing my B.Tech in Computer Engineering at the International Institute of Information Technology, Bhubaneswar (2023–2027). Previously, I completed my foundational education at Dr. Virendra Swarup Memorial Public School, securing 96% in Class 10 and 94% in Class 12.
 
-My engineering philosophy revolves around building scalable, performant systems with a strong product mindset. I possess deep expertise in orchestrating robust backend architectures and designing real-time, event-driven applications[cite: 1]. 
+My engineering philosophy revolves around building scalable, performant systems with a strong product mindset. I possess deep expertise in orchestrating robust backend architectures and designing real-time, event-driven applications. 
 
 **Open To:** SDE Internships, Full-Stack Roles, Open Source Collaboration, and AI/ML Engineering positions.
 
@@ -64,9 +64,9 @@ My engineering philosophy revolves around building scalable, performant systems 
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Generative AI Integration** | Advanced | Integration of Gemini API for intelligent, penalty-based hint systems and complexity analysis[cite: 1]. |
-| **Prompt Engineering** | Advanced | Structuring contextual prompts for LLMs and optimizing AI feedback loops[cite: 1]. |
-| **Cloud AI Architectures** | Intermediate | Certified in deploying and architecting enterprise-grade AI models on cloud infrastructure[cite: 1]. |
+| **Generative AI Integration** | Advanced | Integration of Gemini API for intelligent, penalty-based hint systems and complexity analysis. |
+| **Prompt Engineering** | Advanced | Structuring contextual prompts for LLMs and optimizing AI feedback loops. |
+| **Cloud AI Architectures** | Intermediate | Certified in deploying and architecting enterprise-grade AI models on cloud infrastructure. |
 
 ---
 
@@ -76,17 +76,17 @@ My engineering philosophy revolves around building scalable, performant systems 
 <summary><b>CodeRace — Real-Time Multiplayer Coding Race Platform</b></summary>
 <br />
 
-Developed a competitive 1v1 coding race platform integrating real-time execution and AI-driven insights[cite: 1].
+Developed a competitive 1v1 coding race platform integrating real-time execution and AI-driven insights.
 
 | Metric | Description |
 | :--- | :--- |
-| **Stack** | React, Node.js, Socket.io, Judge0 API, Gemini API, Supabase[cite: 1] |
-| **Scale** | Cross-language execution (JavaScript, Python, C++) synchronized via WebSocket[cite: 1] |
-| **Performance** | Event-driven architecture minimizing latency during live code execution[cite: 1] |
-| **Impact** | Engineered an intelligent AI hint model balancing fairness and competitive strategy[cite: 1] |
+| **Stack** | React, Node.js, Socket.io, Judge0 API, Gemini API, Supabase |
+| **Scale** | Cross-language execution (JavaScript, Python, C++) synchronized via WebSocket |
+| **Performance** | Event-driven architecture minimizing latency during live code execution |
+| **Impact** | Engineered an intelligent AI hint model balancing fairness and competitive strategy |
 | **Repository** | [View Source](#) |
 
-*Professional Explanation:* Built an end-to-end synchronized multiplayer environment utilizing Monaco Editor for the IDE experience. Designed robust backend event handlers via Socket.io to manage live progress tracking and post-match algorithmic complexity reviews[cite: 1].
+*Professional Explanation:* Built an end-to-end synchronized multiplayer environment utilizing Monaco Editor for the IDE experience. Designed robust backend event handlers via Socket.io to manage live progress tracking and post-match algorithmic complexity reviews.
 
 </details>
 
@@ -94,17 +94,17 @@ Developed a competitive 1v1 coding race platform integrating real-time execution
 <summary><b>StashIt — Cross-Device Data Sharing Platform + CLI Tool</b></summary>
 <br />
 
-Engineered a comprehensive data-sharing platform facilitating secure, cross-device content retrieval via stash keys[cite: 1].
+Engineered a comprehensive data-sharing platform facilitating secure, cross-device content retrieval via stash keys.
 
 | Metric | Description |
 | :--- | :--- |
-| **Stack** | React, Node.js, Express, Supabase, Python, Typer[cite: 1] |
-| **Architecture** | Full-stack web client accompanied by a dedicated Python CLI tool[cite: 1] |
-| **Security** | Implemented TTL-based automatic data expiration logic using Supabase scheduled jobs[cite: 1] |
-| **Performance** | Optimized REST APIs featuring robust rate-limiting and input validation[cite: 1] |
+| **Stack** | React, Node.js, Express, Supabase, Python, Typer |
+| **Architecture** | Full-stack web client accompanied by a dedicated Python CLI tool |
+| **Security** | Implemented TTL-based automatic data expiration logic using Supabase scheduled jobs |
+| **Performance** | Optimized REST APIs featuring robust rate-limiting and input validation |
 | **Repository** | [View Source](#) |
 
-*Professional Explanation:* Empowered developer workflows through a zero-browser file transfer CLI. Mastered seamless REST API design, focusing on database lifecycle management and secure key-based queries[cite: 1].
+*Professional Explanation:* Empowered developer workflows through a zero-browser file transfer CLI. Mastered seamless REST API design, focusing on database lifecycle management and secure key-based queries.
 
 </details>
 
@@ -112,16 +112,16 @@ Engineered a comprehensive data-sharing platform facilitating secure, cross-devi
 <summary><b>Sudoku Engine — Algorithmic Puzzle Game</b></summary>
 <br />
 
-Constructed a programmatic puzzle generation engine guaranteeing single-solution validity[cite: 1].
+Constructed a programmatic puzzle generation engine guaranteeing single-solution validity.
 
 | Metric | Description |
 | :--- | :--- |
-| **Stack** | React, JavaScript, TailwindCSS[cite: 1] |
-| **Algorithm** | Advanced backtracking implementation with solution-count verification[cite: 1] |
-| **Features** | Difficulty-tiered matrix generation, real-time input validation, and undo state management[cite: 1] |
+| **Stack** | React, JavaScript, TailwindCSS |
+| **Algorithm** | Advanced backtracking implementation with solution-count verification |
+| **Features** | Difficulty-tiered matrix generation, real-time input validation, and undo state management |
 | **Repository** | [View Source](#) |
 
-*Professional Explanation:* Leveraged recursive backtracking algorithms to dynamically generate and validate complex grids on the client side, ensuring highly responsive game logic[cite: 1].
+*Professional Explanation:* Leveraged recursive backtracking algorithms to dynamically generate and validate complex grids on the client side, ensuring highly responsive game logic.
 
 </details>
 
@@ -133,9 +133,9 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 **International Institute of Information Technology, Bhubaneswar**  
 *August 2023 – Present*
 
-* Undertook rigorous coursework focusing on Data Structures & Algorithms, Object-Oriented Programming, and Database Management Systems[cite: 1].
-* Engineered multiple full-stack applications and algorithmic tools, maintaining high standards of code quality and architectural design[cite: 1].
-* **Skills:** `C++`, `JavaScript`, `React`, `System Design`, `Algorithms`[cite: 1]
+* Undertook rigorous coursework focusing on Data Structures & Algorithms, Object-Oriented Programming, and Database Management Systems.
+* Engineered multiple full-stack applications and algorithmic tools, maintaining high standards of code quality and architectural design.
+* **Skills:** `C++`, `JavaScript`, `React`, `System Design`, `Algorithms`
 
 ---
 
@@ -145,8 +145,8 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 
 | Recognition | Details |
 | :--- | :--- |
-| **Algorithmic Problem Solving** | Successfully solved over 500+ DSA problems across competitive platforms like LeetCode and GeeksforGeeks[cite: 1]. |
-| **Domain Mastery** | Consistent practice and optimization of problems across arrays, graphs, dynamic programming, and tree structures[cite: 1]. |
+| **Algorithmic Problem Solving** | Successfully solved over 500+ DSA problems across competitive platforms like LeetCode and GeeksforGeeks. |
+| **Domain Mastery** | Consistent practice and optimization of problems across arrays, graphs, dynamic programming, and tree structures. |
 
 </div>
 
@@ -156,12 +156,12 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 
 ### Oracle
 <img src="https://img.shields.io/badge/OCI-Certified_Generative_AI_Professional-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Gen AI" /> 
-<br />*Applied knowledge of LLMs, prompt engineering, and AI service integration (2025)*[cite: 1]
+<br />*Applied knowledge of LLMs, prompt engineering, and AI service integration (2025)*
 
 <img src="https://img.shields.io/badge/OCI-Certified_Architect_Associate-A855F7?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Architect" /> 
-<br />*Cloud architecture and enterprise deployment fundamentals (2025)*[cite: 1]
+<br />*Cloud architecture and enterprise deployment fundamentals (2025)*
 
-<img src="https://img.shields.io/badge/OCI-Certified_Foundations_Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations" />[cite: 1]
+<img src="https://img.shields.io/badge/OCI-Certified_Foundations_Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations" />
 
 ---
 
@@ -185,16 +185,6 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Hades&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Hades&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" width="60%" />
-</div>
-
-<br />
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hey-Hades&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <br />
