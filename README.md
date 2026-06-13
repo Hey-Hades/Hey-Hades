@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=200&section=header&text=Himanshu%20Sharma&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=120&section=header&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&weight=400&size=70&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Himanshu+Sharma" alt="Himanshu Sharma" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;Product+Engineer" alt="Typing SVG" />
@@ -130,8 +131,7 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 ## 💼 Experience
 
 ### Software Engineering Intern (Academic)
-**International Institute of Information Technology, Bhubaneswar**  
-*August 2023 – Present*
+**International Institute of Information Technology, Bhubaneswar** *August 2023 – Present*
 
 * Undertook rigorous coursework focusing on Data Structures & Algorithms, Object-Oriented Programming, and Database Management Systems.
 * Engineered multiple full-stack applications and algorithmic tools, maintaining high standards of code quality and architectural design.
