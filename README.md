@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=120&section=header&animation=twinkling" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&weight=400&size=70&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=120&lines=Himanshu+Sharma" alt="Himanshu Sharma" />
+  <!-- Gradient Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,38BDF8&height=150&section=header&animation=twinkling" width="100%" />
+  
+  <!-- Name & Titles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&weight=400&size=75&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=100&lines=Himanshu+Sharma" alt="Himanshu Sharma" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;Product+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
   </a>
-  <br />
-
-  <!-- Academic Badges -->
-  <img src="https://img.shields.io/badge/B.Tech-Computer_Engineering-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" alt="B.Tech" />
-  <img src="https://img.shields.io/badge/IIIT-Bhubaneswar-A855F7?style=for-the-badge&logo=academia&logoColor=white" alt="IIIT Bhubaneswar" />
   <br /><br />
 
-  <!-- Location & Socials -->
-  <img src="https://img.shields.io/badge/Location-Bhubaneswar,_India-5B21B6?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Profile-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:himanshusharmazen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Hey-Hades"><img src="https://img.shields.io/badge/GitHub-Profile-4C1D95?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!-- Academic & Location Info (Plastic / Fully Rounded) -->
+  <img src="https://img.shields.io/badge/B.Tech-Computer_Engineering-7C3AED?style=plastic&logo=codeforces&logoColor=white" alt="B.Tech" />
+  <img src="https://img.shields.io/badge/IIIT-Bhubaneswar-5B21B6?style=plastic&logo=academia&logoColor=white" alt="IIIT Bhubaneswar" />
+  <img src="https://img.shields.io/badge/Bhubaneswar-India-38BDF8?style=plastic&logo=google-maps&logoColor=white" alt="Location" />
   <br /><br />
 
-  <!-- Profile Stats -->
-  <img src="https://komarev.com/ghpvc/?username=Hey-Hades&color=7C3AED&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Hey-Hades?color=A855F7&style=flat-square&logo=github&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Hey-Hades?color=8B5CF6&style=flat-square&logo=github&label=STARS" alt="Stars" />
+  <!-- Social Links (Plastic / Fully Rounded) -->
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:himanshusharmazen@gmail.com"><img src="https://img.shields.io/badge/Email-DB2777?style=plastic&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Hey-Hades"><img src="https://img.shields.io/badge/GitHub-111827?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
+  <br /><br />
+
+  <!-- Profile Stats (Plastic / Fully Rounded) -->
+  <img src="https://komarev.com/ghpvc/?username=Hey-Hades&color=7C3AED&style=plastic&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
 <br />
 
 ---
@@ -155,23 +155,23 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 ## 📜 Certifications
 
 ### Oracle
-<img src="https://img.shields.io/badge/OCI-Certified_Generative_AI_Professional-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Gen AI" /> 
+<img src="https://img.shields.io/badge/OCI-Certified_Generative_AI_Professional-7C3AED?style=plastic&logo=oracle&logoColor=white" alt="OCI Gen AI" /> 
 <br />*Applied knowledge of LLMs, prompt engineering, and AI service integration (2025)*
 
-<img src="https://img.shields.io/badge/OCI-Certified_Architect_Associate-A855F7?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Architect" /> 
+<img src="https://img.shields.io/badge/OCI-Certified_Architect_Associate-A855F7?style=plastic&logo=oracle&logoColor=white" alt="OCI Architect" /> 
 <br />*Cloud architecture and enterprise deployment fundamentals (2025)*
 
-<img src="https://img.shields.io/badge/OCI-Certified_Foundations_Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Foundations" />
+<img src="https://img.shields.io/badge/OCI-Certified_Foundations_Associate-8B5CF6?style=plastic&logo=oracle&logoColor=white" alt="OCI Foundations" />
 
 ---
 
 ## 📈 Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-500%2B_Problems-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-A855F7?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-500%2B_Problems-7C3AED?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-A855F7?style=plastic&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=plastic&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=plastic&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </div>
 
 <br />
