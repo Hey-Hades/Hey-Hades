@@ -43,33 +43,15 @@ My engineering philosophy revolves around building scalable, performant systems 
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,js,python" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css,tailwind" />
+<br/><br/>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
-
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,postgres,supabase,git" />
 
 </div>
 
-<br />
-
 ---
 
-## 🧠 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Generative AI Integration** | Advanced | Integration of Gemini API for intelligent, penalty-based hint systems and complexity analysis. |
-| **Prompt Engineering** | Advanced | Structuring contextual prompts for LLMs and optimizing AI feedback loops. |
-| **Cloud AI Architectures** | Intermediate | Certified in deploying and architecting enterprise-grade AI models on cloud infrastructure. |
-
----
 
 ## 🚀 Featured Projects
 
@@ -139,68 +121,6 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Algorithmic Problem Solving** | Successfully solved over 500+ DSA problems across competitive platforms like LeetCode and GeeksforGeeks. |
-| **Domain Mastery** | Consistent practice and optimization of problems across arrays, graphs, dynamic programming, and tree structures. |
-
-</div>
-
----
-
-## 📜 Certifications
-
-### Oracle
-<img src="https://img.shields.io/badge/OCI-Certified_Generative_AI_Professional-7C3AED?style=plastic&logo=oracle&logoColor=white" alt="OCI Gen AI" /> 
-<br />*Applied knowledge of LLMs, prompt engineering, and AI service integration (2025)*
-
-<img src="https://img.shields.io/badge/OCI-Certified_Architect_Associate-A855F7?style=plastic&logo=oracle&logoColor=white" alt="OCI Architect" /> 
-<br />*Cloud architecture and enterprise deployment fundamentals (2025)*
-
-<img src="https://img.shields.io/badge/OCI-Certified_Foundations_Associate-8B5CF6?style=plastic&logo=oracle&logoColor=white" alt="OCI Foundations" />
-
----
-
-## 📈 Coding Profiles
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-500%2B_Problems-7C3AED?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-A855F7?style=plastic&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=plastic&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B21B6?style=plastic&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
-
-<br />
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hey-Hades&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Hades&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Hades&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" width="60%" />
-</div>
-
-<br />
-
----
-
-## 📉 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hey-Hades&theme=tokyonight&hide_border=true&bg_color=0D1117&color=7C3AED&line=A855F7&point=ffffff" alt="Contribution Graph" width="100%" />
-</div>
-
-<br />
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -214,15 +134,22 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 ## ⚡ Current Focus
 
 ```yaml
-learning: 
-  - Advanced Distributed Systems
-  - LLM Fine-Tuning
-building: 
-  - Scalable WebSockets Architectures
-  - AI-Augmented Engineering Tools
-exploring: 
-  - Cloud Native Deployments (OCI / AWS)
-  - Next-Generation System Design
-open_to: 
-  - Software Engineering Internships
-  - Open Source Contributions
+  learning:
+    - Advanced Data Structures & Algorithms
+    - Backend Engineering & System Design
+    - Computer Science Fundamentals (DBMS, OS, CN)
+
+  building:
+    - CodeRace — Real-Time Competitive Coding Platform
+    - Scalable Code Execution & Test Harness
+    - Modern Full-Stack Applications with React & Node.js
+
+  exploring:
+    - Cloud Infrastructure (Supabase, Render, OCI)
+    - WebSockets & Distributed Systems
+    - AI-Assisted Developer Workflows
+
+  open_to:
+    - Software Engineering Internships
+    - Full-Stack & Backend Engineering Roles
+    - Open Source Collaboration
