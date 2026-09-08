@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a rigorous **Software Engineer** specializing in full-stack development and artificial intelligence integration. Currently pursuing my B.Tech in Computer Engineering at the International Institute of Information Technology, Bhubaneswar (2023–2027). Previously, I completed my foundational education at Dr. Virendra Swarup Memorial Public School, securing 96% in Class 10 and 94% in Class 12.
 
@@ -39,7 +39,7 @@ My engineering philosophy revolves around building scalable, performant systems 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ My engineering philosophy revolves around building scalable, performant systems 
 ---
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details>
 <summary><b>CodeRace — Real-Time Multiplayer Coding Race Platform</b></summary>
@@ -110,7 +110,7 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### Software Engineering Intern (Academic)
 **International Institute of Information Technology, Bhubaneswar** *August 2023 – Present*
@@ -131,7 +131,7 @@ Constructed a programmatic puzzle generation engine guaranteeing single-solution
 
 ---
 
-## ⚡ Current Focus
+##  Current Focus
 
 ```yaml
   learning:
